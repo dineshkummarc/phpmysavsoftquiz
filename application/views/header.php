@@ -268,27 +268,6 @@ if(in_array('All',explode(',',$logged_in['setting']))){
 <?php 
 }
 ?>
-
-<?php 
-if(in_array('All',explode(',',$logged_in['setting']))){
-?>
-     <!-- Nav Item - Pages Collapse Menu -->
-      <li class="nav-item">
-        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseSupport" aria-expanded="true" aria-controls="collapseStudy">
-          <i class="fas fa-fw fa-question-circle"></i>
-          <span>Support</span>
-        </a>
-        <div id="collapseSupport" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
-          <div class="bg-white py-2 collapse-inner rounded">
-          
-            <a class="collapse-item" href="https://savsoftquiz.com/support.php">Support</a>
-          </div>
-        </div>
-      </li>
-	  
-<?php 
-}
-?>  
     </ul>
     <!-- End of Sidebar -->
 
