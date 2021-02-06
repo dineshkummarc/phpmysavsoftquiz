@@ -44,3 +44,16 @@ ERROR - 2021-02-06 21:08:58 --> Severity: Warning --> Division by zero C:\xampp\
 ERROR - 2021-02-06 21:09:28 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
 ERROR - 2021-02-06 21:11:02 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
 ERROR - 2021-02-06 21:11:08 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:13:15 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:13:18 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:13:18 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:14:45 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:14:49 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:14:50 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:16:10 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:16:12 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:16:12 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:16:14 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:18:23 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:18:24 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 21:18:26 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
