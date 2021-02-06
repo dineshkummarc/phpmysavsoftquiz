@@ -22,3 +22,4 @@ ERROR - 2021-02-06 19:42:14 --> Severity: Warning --> Division by zero C:\xampp\
 ERROR - 2021-02-06 19:42:38 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
 ERROR - 2021-02-06 19:42:41 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
 ERROR - 2021-02-06 19:42:41 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
+ERROR - 2021-02-06 20:37:43 --> Severity: Warning --> Division by zero C:\xampp\htdocs\Test\savsoftquiz_v5\application\views\dashboard.php 237
