@@ -289,7 +289,7 @@ if(in_array('All',explode(',',$logged_in['setting']))){
 <?php 
 }
 ?>	  
-		<?php 
+<?php
 if(in_array('All',explode(',',$logged_in['setting']))){
 ?> 
 
