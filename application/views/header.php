@@ -289,7 +289,6 @@ if(in_array('All',explode(',',$logged_in['setting']))){
 <?php 
 }
 ?>  
-
     </ul>
     <!-- End of Sidebar -->
 
@@ -305,13 +304,10 @@ if(in_array('All',explode(',',$logged_in['setting']))){
           <!-- Sidebar Toggle (Topbar) -->
           <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
             <i class="fa fa-bars"></i>
-          </button>
-
-          
+          </button>    
 
           <!-- Topbar Navbar -->
           <ul class="navbar-nav ml-auto">
-
       
 	  <?php 
 $logged_in=$this->session->userdata('logged_in');
