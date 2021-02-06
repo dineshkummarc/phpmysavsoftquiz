@@ -128,9 +128,7 @@ if(in_array('List_all',explode(',',$logged_in['appointment']))){ ?>
 </li>
 <?php 
 				}
-?>				
-	  
-	  
+?>	  
 	<?php 
 if(in_array('List',explode(',',$logged_in['questions'])) || in_array('List_all',explode(',',$logged_in['questions']))){
 ?>  
