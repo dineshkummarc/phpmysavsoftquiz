@@ -6,8 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-
-
   
   <!-- Custom fonts for this template-->
   <link href="<?php echo base_url();?>vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -17,15 +15,12 @@
 	
 	<!-- Custom styles for this template-->
   <link href="<?php echo base_url();?>css/sb-admin-2.min.css" rel="stylesheet">
-
-	
 	
   <style>
   html,body,h1,h2,h3,h4,p,div,span,ul,li,a{
     direction: <?php echo $this->config->item('direction');?>;
 }
 .btn-default{
-	
 	border:1px solid #c8c4c4;
 	
 }
@@ -48,15 +43,12 @@ form{
 
   <!-- Page level plugins -->
   <script src="<?php echo base_url();?>vendor/chart.js/Chart.min.js"></script>
-
-   
 	
 	<script>
 	
 	var base_url="<?php echo base_url();?>";
 
 	</script>
-	
 	 
 	<?php
 	if(($this->uri->segment(1).'/'.$this->uri->segment(2))!='quiz/attempt'){
@@ -68,24 +60,10 @@ form{
 	?>	
 	<!-- firebase messaging menifest.json -->
 	 <link rel="manifest" href="<?php echo base_url('js/manifest.json');?>">
-	 
-	 
-	 
-
-
-
 
  </head>
   
-  
-  
-  
-  
-  
 <body id="page-top">
-
-
-
 <?php 
 			if($this->session->userdata('logged_in')){
 				if(($this->uri->segment(1).'/'.$this->uri->segment(2))!='quiz/attempt'){
@@ -102,7 +80,6 @@ form{
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="https://savsoftquiz.com">
          
         <div class="sidebar-brand-text mx-3"><?php if($hres[0]['setting_value']==""){ ?>Savsoft Quiz <sup>5.0</sup><?php }else{ echo $hres[0]['setting_value']; }?> </div>
-		
 		
       </a>
 <center><span style="color:#ffffff;"><?php echo $hres[1]['setting_value'];?> </span></center>
@@ -126,8 +103,6 @@ if(in_array('All',explode(',',$logged_in['setting']))){
         Interface
       </div>
 -->
-
-
  	<?php 
 	if(in_array('List_all',explode(',',$logged_in['users']))){
 		?>
@@ -192,11 +167,6 @@ if(in_array('List',explode(',',$logged_in['questions'])) || in_array('List_all',
 </li>
 
 <?php } ?>
-
-
-
-
-
  
 <?php 
 if(in_array('List',explode(',',$logged_in['quiz'])) || in_array('List_all',explode(',',$logged_in['quiz']))){
@@ -391,7 +361,6 @@ $logged_in=$this->session->userdata('logged_in');
 	$notifications=$query->result_array();
 	
 	?>
-	
 	  
 	              <!-- Nav Item - Alerts -->
             <li class="nav-item dropdown no-arrow mx-1">
