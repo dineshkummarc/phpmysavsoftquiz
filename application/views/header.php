@@ -97,11 +97,6 @@ if(in_array('All',explode(',',$logged_in['setting']))){
       <!-- Divider -->
       <hr class="sidebar-divider">
 
-      <!-- Heading  
-      <div class="sidebar-heading">
-        Interface
-      </div>
--->
  	<?php 
 	if(in_array('List_all',explode(',',$logged_in['users']))){
 		?>
